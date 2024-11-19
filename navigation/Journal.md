@@ -165,6 +165,9 @@ Throughout this journey, I have gained a deep understanding of both frontend and
 ## MCQ Review
  - Taking the AP CSP 2018 multiple-choice practice test was a really eye-opening experience. It gave me a clear idea of where I’m doing well and where I need to improve in computer science. The test covered so many areas—like programming, algorithms, and even how technology impacts society—which made me realize how much there is to learn. One of the biggest takeaways for me was how important it is to think critically and pay attention to the little details in a question. I felt pretty confident with basic programming concepts and algorithms, but I definitely struggled with trickier topics, like data representation and edge cases in problem-solving. Those tougher questions really pointed out that I need to work on reading pseudocode better and understanding how to handle unusual scenarios in algorithms. Another big lesson was learning to stay calm and focused under time pressure, which is something I know I’ll need for the real exam. Overall, the test helped me see what I need to work on and reminded me how important it is to have a solid understanding of the basics. It also gave me a boost of motivation to keep studying and tackling challenges head-on!
 
+**Question 7 Assignment statements with start end and current**
+<img src="/Armaghanz_2025/assets/Images/Screenshot 2024-11-19 at 2.34.41 AM.png" alt="Question 7" style="max-width: 100%; height: auto;">
+
 <script src="https://utteranc.es/client.js"
         repo="Armaghan-z/Armaghan_2025"
         issue-term="pathname"
