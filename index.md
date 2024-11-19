@@ -182,7 +182,7 @@ window.onclick = function(event) {
 <hr>
 
 <!-- About Me Section -->
-<img src="/Armaghanz_2025/Images/Italian-River.jpeg" class="centered-image"
+<img src="/Armaghanz_2025/assets/Images/Italian-River.jpeg" class="centered-image"
 
 <div class="bio-section">
   <h2>Hello, I'm Armaghan Zarak</h2>
